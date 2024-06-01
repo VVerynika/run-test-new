@@ -1,2 +1,2 @@
-# run-test-new
+# run-tests-new
 
